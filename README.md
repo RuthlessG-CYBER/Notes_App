@@ -41,7 +41,7 @@ To run this project locally:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/ComposeNotes.git
+    git clone https://github.com/RuthlessG-CYBER/Notes_App.git
     ```
 
 2. Open the project in Android Studio Hedgehog or newer.
